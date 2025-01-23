@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes.a8318413-682b-11ee-b262-ceacdf806867.jpg</filename>
+	<path>C:\Users\umair\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\yes.a8318413-682b-11ee-b262-ceacdf806867.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>198</ymin>
+			<xmax>234</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello.f939875f-682a-11ee-9700-ceacdf806867.jpg</filename>
+	<path>C:\Users\umair\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\hello.f939875f-682a-11ee-9700-ceacdf806867.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>179</ymin>
+			<xmax>284</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>
